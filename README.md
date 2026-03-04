@@ -7,3 +7,6 @@
 - ['Tutorial_1' : Sequence types : Tuples, Lists, and Strings (p.25~34)](./tutorial_1.ipynb)
 - [1.2.1 Getting Started with Images p.21](./chap121.ipynb)
 - [1.2.2 Getting Started with Videos p.24](./chap122.ipynb)
+- [1.2.3 Drawing Functions in OpenCV p.27](./chap123.ipynb)
+- [1.2.4 Mouse as a Paint-Brush p.30](./chap124.ipynb)
+- [1.2.5 Trackbar as the Color Palette p.32](./chap125.ipynb)
