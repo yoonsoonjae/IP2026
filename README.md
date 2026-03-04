@@ -5,3 +5,5 @@
 
 ## 📁 내용
 - ['Tutorial_1' : Sequence types : Tuples, Lists, and Strings (p.25~34)](./tutorial_1.ipynb)
+- [1.2.1 Getting Started with Images p.21](./chap121.ipynb)
+- [1.2.2 Getting Started with Videos p.24](./chap122.ipynb)
