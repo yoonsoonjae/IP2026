@@ -19,7 +19,7 @@
 - [1.4.1 Changing Colorspaces p.50](./chap141.ipynb)
 - [1.4.2 Image Thresholding p.52](./chap142.ipynb)
   
-## Homework2  
+## ✏️ Homework1  
 
 <img src="./h1000x626.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
 
