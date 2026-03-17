@@ -23,6 +23,8 @@
 - [1.4.1 Changing Colorspaces p.50](./chap141.ipynb)
 - [1.4.2 Image Thresholding p.52](./chap142.ipynb)
 - [1.4.3 Geometric Transformations of Images p.58](./chap143.ipynb)
+- [1.4.4 Smoothing Images p.62](./chap144.ipynb)
+  
   
 ## ✏️ Homework1  
 
