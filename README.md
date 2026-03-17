@@ -21,9 +21,12 @@
   
 ## ✏️ Homework1  
 
-<img src="./h1000x626.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
-
 - https://youtu.be/RcIkqtxd9-8
 
 [![Video](https://img.youtube.com/vi/RcIkqtxd9-8/maxresdefault.jpg)](https://youtu.be/RcIkqtxd9-8)
 
+## ✏️ Homework2 
+
+- https://youtu.be/RcIkqtxd9-8
+
+[![Video](https://img.youtube.com/vi/RcIkqtxd9-8/maxresdefault.jpg)](https://youtu.be/RcIkqtxd9-8)
