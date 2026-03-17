@@ -38,5 +38,7 @@
 
 ## ✏️ Homework3
 
+<img width="552" height="236" alt="image" src="https://github.com/user-attachments/assets/93da4121-4198-46a6-929c-b9ed16d7e59c" />
+
 <img width="561" height="369" alt="image" src="https://github.com/user-attachments/assets/e33cc4c4-6251-41d9-bd7e-78f007e8124f" />
 
