@@ -44,10 +44,13 @@ cv2.setMouseCallback('image', draw_rectangle)
 
 while True:
     img = org_img.copy()
+    alpha = 0.3
 
     value = cv2.getTrackbarPos('value', 'image')
     if drawing == True:
+        overlay = img.copy()
         cv2.rectangle(img, (ix, iy), (cx, cy), (0, 0, 255), -1)
+        img = cv2.addWeighted(overlay, alpha, img, 1 - alpha, 0)
 
     cv2.putText(
         img,
