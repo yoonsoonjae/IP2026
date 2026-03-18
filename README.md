@@ -34,9 +34,9 @@
 
 ## ✏️ Homework2 
 
-- https://youtu.be/RcIkqtxd9-8
+- https://youtu.be/Dj1tXfAYyvk
 
-[![Video](https://img.youtube.com/vi/RcIkqtxd9-8/maxresdefault.jpg)](https://youtu.be/RcIkqtxd9-8)
+[![Video](https://img.youtube.com/vi/Dj1tXfAYyvk/maxresdefault.jpg)](https://youtu.be/Dj1tXfAYyvk)
 
 ## ✏️ Homework3
 
