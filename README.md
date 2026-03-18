@@ -28,9 +28,9 @@
   
 ## ✏️ Homework1  
 
-- https://youtu.be/RcIkqtxd9-8
+- https://youtu.be/ihbIyNhktcs
 
-[![Video](https://img.youtube.com/vi/RcIkqtxd9-8/maxresdefault.jpg)](https://youtu.be/RcIkqtxd9-8)
+[![Video](https://img.youtube.com/vi/ihbIyNhktcs/maxresdefault.jpg)](https://youtu.be/ihbIyNhktcs)
 
 ## ✏️ Homework2 
 
