@@ -24,7 +24,10 @@
 - [1.4.2 Image Thresholding p.52](./chap142.ipynb)
 - [1.4.3 Geometric Transformations of Images p.58](./chap143.ipynb)
 - [1.4.4 Smoothing Images p.62](./chap144.ipynb)
-  
+- [1.4.5 Morphological Transformations p.68](./chap145.ipynb)
+- [1.4.6 Image Gradients](./chap146.ipynb)
+- [1.4.7 Canny Edge Detection](./chap147.ipynb)
+- [1.4.9 Contours in OpenCV p.85~94](./chap149.ipynb)
   
 ## ✏️ Homework1  
 
@@ -43,4 +46,6 @@
 <img width="552" height="236" alt="image" src="https://github.com/user-attachments/assets/93da4121-4198-46a6-929c-b9ed16d7e59c" />
 
 <img width="561" height="369" alt="image" src="https://github.com/user-attachments/assets/e33cc4c4-6251-41d9-bd7e-78f007e8124f" />
+
+## ✏️ Homework4
 
